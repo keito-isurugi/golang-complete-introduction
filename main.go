@@ -15,5 +15,9 @@ func main() {
     // demo.FunctionsAndTypes()
     // demo.PackageDemo()
     // demo.CliTool()
-    demo.Abstraction()
+    // demo.Abstraction()
+    // demo.ErrorHandling()
+    // demo.TestAndTestabiriti()
+    demo.ParallelProcessing()
+
 }
